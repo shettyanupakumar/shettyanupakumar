@@ -21,8 +21,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+ <!-- AWS -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
+     
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
@@ -64,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="OpenAI / ChatGPT" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="28"/>
+</a>
 </p>
 
